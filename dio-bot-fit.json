@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "diofitbot-pqid",
+  "private_key_id": "21bb711aa506e556b3c16b66410aaac04d79f385",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCMJzDBXC0UtcD0\nB49IFtzLvsAuL+I6aRRkIGKGLJmImjZixUxp1o7SKO5yE0fyUhAM6p2zp1IgpYEY\nqDXAIJ0Wqw8enOM5qcGOkGJt00s6X//A0S3vtfNtgjlUBuqWVRlMGyOYwP6XIc5m\nk8cZrWducgOFqxP6YiQJ40pPNQZuuvBxY+siaPUN8RsibSTEel3W1kjXmlWFvDSQ\n9GH01eYkGpZqvOpJjzFbTFXPtZxjLXwpIQE1Y2k6WHUNuU/pIOFZTaTQp2xAUpLf\nTUImz6Bcil1WCMcFdhdJpUW2EvULQP3HX8eFv7QAPg0FTT8AiscUB519l/gmCBvZ\nA4uDIlqtAgMBAAECggEAFX8dV0sQDxEhm0xdia0YCJglWfA2PsdHPWRKOFI26mDc\n3qFsav9hwJJOoGicrGox1AlYTunnCuLXvjRuqh1WeteZ5hQiNgH3kipLLpUuALIg\nxC5RYWcDA1Tp/h1hddVvn+C5wQA5DG0+/zTDYQjbyHDsYWAwHENZS7r09tknN2xy\nveLPUO/8XL5R7zoXwahlBAoTGSUhmbSMs9HTnBL/Wzz62NRnOYEaTQLh8FVmZsVN\n/5mGvE72i4BIHD7zzdd5bKSb+Bwo1TlpXc4W6VtUMwGbFJ+IugLvOt52VO8ho1Ms\ncp41w5LZ+i4JvL1Ci9r5pIlTW8whL1C4H+70KDxTcQKBgQDBnY3tYAbL+4TeCyd3\n02qvMPqY1ODrvgmAou9E7870KyX4A0PvERetc4xagj7i0vP8YAm/m1CUnr016W/i\nVl8VbcXrqS25Gw+NXZCkmrRYj2bZDyFjhU74imh0LeErvEYb2j4WsVK3kWJEtxG3\nJNJD04tM2JZOJS9rJ6YdHSxywwKBgQC5T8XDZOJhy439ykHup4HPinpsY37Ek3xY\nPLOHoSC7nmJhvstkm5QLPK36M7UaB7nWC+4Ki5CRT4oKXAijIwYRfpQ82qlz82Pc\nEMbIwR+5H5uRkLF3BTQ60Tm7VvQw8yyZ2773/d8KkRYn/jAjsP+UevxESia4R370\n7eY9n4FFzwKBgBswN8T0rh+o40CXCmTOQHX3h8k8Y5VXK1hwCO+CSWqKQJuyQbDp\nkoyd5EC1d4U8oFx5VAUfF1K3c9SFQlvjSxjkQF3WdQBAZ4+vaudifh7NjGDAuiyS\nhMNsFDz0UGFm3+V7YSqonff/J3CE0K0KM6iopTAWXgz9NcpzV+VQunQnAoGAXSqL\nHfp5inthbugiD89thx9y/01ibYhM6rvR8u2CXHF7uvLGpVVGsAOY4ILgmS6rMr8a\ntXiHfVcE6sJsoUA5i9AczR+ONDp4ySoyFrpprZQDjcK2RkV6hdus78/+wyFvGgeN\n0nZzjYd2ITM9lqQlSswuSlMRdnKTlKaKrA6mWqcCgYBw3uWt3Tgqem2IxzfWChHX\n4WVBQlppbU6TRxQuGCijDbx0jKl0mqF1z56FdzgDyyV0HvYMZ/riN28U6h8hpxpp\nXxvI5oYg4lRPOeilTKqh7Fsji7xN1HEYi8OB3Yw9I/AzccXABp4Y1CMc7Ox9PQ1p\nCz/nHN2kR9Y/WP8GAxoAHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "diofitbot@diofitbot-pqid.iam.gserviceaccount.com",
+  "client_id": "116983241357976466378",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diofitbot%40diofitbot-pqid.iam.gserviceaccount.com"
+}

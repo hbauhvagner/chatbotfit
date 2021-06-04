@@ -1,0 +1,11 @@
+{
+  "name": "ChatbotFit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.53.0",
+    "youtube-node": "^1.3.3"
+  }
+}
